@@ -2,4 +2,4 @@ Le but est de trouver le plus grand carré de "." sur une map donnée. le carré
 
 Lancer dans le teminal : php bsq.php example_file
 Gérer la taille de la map et la densité des obstacles en ligne 3 du bsq.php
-La Map non remplie apparaitré dans example_file, et le plus grand carré apparaitra dans le Terminal
+La Map non remplie apparaitr dans example_file, et le plus grand carré apparaitra dans le Terminal
